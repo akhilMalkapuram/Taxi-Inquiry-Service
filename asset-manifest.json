@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Taxi-Inquiry-Service/static/css/main.3fa9e894.css",
+    "main.js": "/Taxi-Inquiry-Service/static/js/main.f37cd184.js",
+    "static/js/787.0c3f432a.chunk.js": "/Taxi-Inquiry-Service/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/Taxi-Inquiry-Service/index.html",
+    "main.3fa9e894.css.map": "/Taxi-Inquiry-Service/static/css/main.3fa9e894.css.map",
+    "main.f37cd184.js.map": "/Taxi-Inquiry-Service/static/js/main.f37cd184.js.map",
+    "787.0c3f432a.chunk.js.map": "/Taxi-Inquiry-Service/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fa9e894.css",
+    "static/js/main.f37cd184.js"
+  ]
+}
