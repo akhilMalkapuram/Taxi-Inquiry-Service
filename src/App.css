@@ -10,26 +10,57 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
+.App{
+  background-color: #26b3ba;
   height: 100vh;
+  background-size: cover;
+  padding-top: 10px;
+  display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  
+
+
+  
 }
 
-.output {
-  outline: none;
-  border: none;
-  width: 340px;
-  height: 70px;
-  font-size: 32px;
-  padding: 2px 10px;
-  background: #333333;
-  border-top-left-radius: 6px;
-  border-top-right-radius: 6px;
+
+.heading{
+  text-align: center;
+}
+
+form{
+  text-align: center;
+}
+.input{
+  color:black;
+  padding-top: 10px;
+}
+
+.button{
+  padding: 10px;
+  width:100px;
+  background-color: #1a31dc;
   color: #fff;
-  text-align: right;
+  border-radius: 10px;
+  border:2px solid #1a31dc
+}
+
+.container{
+  text-align: center;
+  background-color: white;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  padding: 10px;
 
 }
 
+button:hover{
+  cursor: pointer;
+  background-color: #1f2b82;
+}
